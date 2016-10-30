@@ -11,12 +11,13 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 25px;
     font-weight: 300;
-    line-height: 56px;
+    line-height: $header-height;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    margin-left: 20px;
 
     &,
     &:visited {
@@ -26,7 +27,7 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: $header-height;
 
     .menu-icon {
         display: none;
@@ -92,7 +93,19 @@
     }
 }
 
+#headerimage {
+  position: relative;
+  float: left;
+  height: $header-height;
+}
 
+#wholeHeader {
+  display: block;
+  height: inherit;
+  height: $header-height;
+  padding-bottom: 5px;
+  border-bottom: 2px solid black;
+}
 
 /**
  * Site footer
