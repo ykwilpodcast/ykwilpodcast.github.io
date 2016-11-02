@@ -5,7 +5,8 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: $header-footer-background-color;
+    //background-color: $header-footer-background-color;
+    background: linear-gradient(to bottom right, $header-footer-background-color, lighten($header-footer-background-color,10%));
 
     // Positioning context for the mobile navigation icon
     position: relative;
