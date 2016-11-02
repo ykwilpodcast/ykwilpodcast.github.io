@@ -229,6 +229,13 @@
     }
 }
 
+.bannerPhoto {
+  max-width: 100%;
+  vertical-align: middle;
+  margin: auto auto 15px auto;
+  display: block;
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
