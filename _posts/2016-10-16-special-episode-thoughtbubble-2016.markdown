@@ -11,11 +11,10 @@ images:
     title: Thought Bubble 2016
 ---
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_thoughtBubble2016.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you. **You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-For our first special episode, we sat down and talked about one of the biggest and most well attended indie comic festivals in the United Kingdom: **Thought Bubble**.
 
 <script src="https://www.buzzsprout.com/58982/430411-ykwil-special-thought-bubble-2016.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+For our first special episode, we sat down and talked about one of the biggest and most well attended indie comic festivals in the United Kingdom: **Thought Bubble**.
 
 This month's questions are:   
 

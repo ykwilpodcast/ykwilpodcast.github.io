@@ -12,11 +12,10 @@ images:
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_buffyTheVampireSlayer.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you. **You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-*For this first episode, we sat down and talked about one of the most well-loved supernatural TV shows of the late 1990s: **Buffy the Vampire Slayer.***
 
 <script src="http://www.buzzsprout.com/58982/384942-episode-1-buffy-the-vampire-slayer.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+For this first episode, we sat down and talked about one of the most well-loved supernatural TV shows of the late 1990s: **Buffy the Vampire Slayer.**
 
 This month's questions are:   
 

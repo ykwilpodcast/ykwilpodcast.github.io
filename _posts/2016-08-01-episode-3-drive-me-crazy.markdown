@@ -12,11 +12,10 @@ images:
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_driveMeCrazy.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you. **You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-*For our third episode, we sat down and talked about the best movie from 1999 that was named after a Britney Spears song: **Drive Me Crazy**.*
 
 <script src="https://www.buzzsprout.com/58982/405042-episode-3-drive-me-crazy.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+For our third episode, we sat down and talked about the best movie from 1999 that was named after a Britney Spears song: **Drive Me Crazy**.
 
 This month's questions are:   
 

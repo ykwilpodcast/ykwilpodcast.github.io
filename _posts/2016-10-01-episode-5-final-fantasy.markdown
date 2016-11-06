@@ -12,11 +12,10 @@ images:
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_finalFantasy.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you.**You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-*For our fifth episode, we sat down and talked about one of the most biggest and most beloved role-playing games out there: **Final Fantasy**.*
 
 <script src="https://www.buzzsprout.com/58982/423841-episode-5-final-fantasy.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+For our fifth episode, we sat down and talked about one of the most biggest and most beloved role-playing games out there: **Final Fantasy**.
 
 We were also joined by our first guest, the one and only [Nick Gonzo](https://twitter.com/nick_gonzo) of Madius Comics fame! You can find his most recent work, Pictures of Spiderman, by [getting in contact with him here](https://twitter.com/nick_gonzo/status/778510369669124096).
 

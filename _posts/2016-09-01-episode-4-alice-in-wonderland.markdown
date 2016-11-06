@@ -12,11 +12,10 @@ images:
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_aliceInWonderland.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you.**You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-*For our fourth episode, we sat down and talked about one of the most culturally influential pieces of prose: **Alice in Wonderland**.*
 
 <script src="https://www.buzzsprout.com/58982/414380-episode-4-alice-in-wonderland.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+For our fourth episode, we sat down and talked about one of the most culturally influential pieces of prose: **Alice in Wonderland**.
 
 This month's questions are:   
 

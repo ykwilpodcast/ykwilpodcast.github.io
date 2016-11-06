@@ -12,11 +12,10 @@ images:
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_residentEvil.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you. **You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-*For our second episode, we sat down and talked about one of the most prominent horror games that exists across all consoles: **Resident Evil** in all of its forms: both its original source material and the films that they inspired.*
 
 <script src="https://www.buzzsprout.com/58982/395510-episode-2-resident-evil.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+For our second episode, we sat down and talked about one of the most prominent horror games that exists across all consoles: **Resident Evil** in all of its forms: both its original source material and the films that they inspired.
 
 This month's questions are:   
 

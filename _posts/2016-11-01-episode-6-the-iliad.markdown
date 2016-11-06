@@ -12,13 +12,12 @@ images:
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_theIliad.png" />
-*Do you get overly attached to things without any real explanation of why? Then this is the podcast for you. **You Know What I Like...?** is a regularly scheduled enthusiastic flailing about another piece of pop culture.*
-
-*For our sixth episode, we sat down and talked about potentially the oldest and most influential piece of literature to have ever existed: **The Iliad**. However, as that isn't the most accessible of topics, we're looking at it through the 2004 movie: **Troy**.*
 
 <script src="https://www.buzzsprout.com/58982/436757-episode-6-the-iliad.js?player=small" type="text/javascript" charset="utf-8"></script>
 
-This episode marks the first appearance of Sophie's new feature Fashion Watch!
+For our sixth episode, we sat down and talked about potentially the oldest and most influential piece of literature to have ever existed: **The Iliad**. However, as that isn't the most accessible of topics, we're looking at it through the 2004 movie: **Troy**.
+
+This episode also marks the first appearance of Sophie's new feature **Fashion Watch**!
 
 This month's questions are:   
 
