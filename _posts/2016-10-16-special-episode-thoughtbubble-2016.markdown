@@ -3,7 +3,7 @@ layout: post
 title:  "Special Episode - Thought Bubble 2016"
 date:   2016-10-16 00:00:00 0000
 categories: podcast
-excerpt: "For our first special episode, we sat down and talked about one of the biggest and most well attended indie comic festivals in the United Kingdom: Thought Bubble."
+excerpt: "For our first special episode, we sat down and talked about one of the biggest and most well attended indie comic festivals in the United Kingdom: <strong>Thought Bubble</strong>"
 images:
 
   - url: /assets/bannerPhoto_thoughtBubble2016.png
@@ -25,7 +25,7 @@ This month's questions are:
 
 Find out all of these answers and more in this month's episode!
 
-   Guests:
+Guests:
 
 * Robin Jones
     + Personal Twitter: [@RobJonesWrites](https://twitter.com/RobJonesWrites)

@@ -3,7 +3,7 @@ layout: post
 title:  "Episode 6 - The Iliad"
 date:   2016-11-01 00:00:00 0000
 categories: podcast
-excerpt: "For our sixth episode, we sat down and talked about potentially the oldest and most influential piece of literature to have ever existed: The Iliad."
+excerpt: "For our sixth episode, we sat down and talked about potentially the oldest and most influential piece of literature to have ever existed: <strong>The Iliad</strong>"
 images:
 
   - url: /assets/bannerPhoto_theIliad.png
