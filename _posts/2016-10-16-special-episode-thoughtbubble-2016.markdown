@@ -17,7 +17,7 @@ For our first special episode, we sat down and talked about one of the biggest a
 
 <script src="https://www.buzzsprout.com/58982/430411-ykwil-special-thought-bubble-2016.js?player=small" type="text/javascript" charset="utf-8"></script>
 
-   This month's questions are:   
+This month's questions are:   
 
 1.  What makes Thought Bubble stand above the rest as a comic festival?
 2.  Who are our guests most looking forward to accidentally-on-purpose running into?
