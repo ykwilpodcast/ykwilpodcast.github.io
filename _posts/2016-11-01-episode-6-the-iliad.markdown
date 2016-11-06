@@ -20,7 +20,8 @@ images:
 
 This episode marks the first appearance of Sophie's new feature Fashion Watch!
 
-This month's questions are:
+This month's questions are:   
+
 1.  Is Brad Pitt's kaftan in Troy iconic or is it *iconic*?
 2.  What music would best fit as the soundtrack of a spoken-word version of The Iliad?
 3.  Does Mark share too much information about his sexual awakening?
