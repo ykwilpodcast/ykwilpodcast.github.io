@@ -18,8 +18,14 @@ images:
 
 <script src="https://www.buzzsprout.com/58982/436757-episode-6-the-iliad.js?player=small" type="text/javascript" charset="utf-8"></script>
 
+This episode marks the first appearance of Sophie's new feature Fashion Watch!
+
 This month's questions are:
-This episode marks the first appearance of Sophie's new feature Fashion Watch. Is Brad Pitt's kaftan in Troy iconic or is it iconic? What music would best fit as the soundtrack of a spoken-word version of The Iliad? Does Mark share too much information about his sexual awakening? Find out all of these answers and more in this month's episode!
+1. Is Brad Pitt's kaftan in Troy iconic or is it *iconic*?
+2. What music would best fit as the soundtrack of a spoken-word version of The Iliad?
+3. Does Mark share too much information about his sexual awakening?
+
+Find out all of these answers and more in this month's episode!
 
 You can find us at [@ykwilpodcast](https://twitter.com/ykwilpodcast) on Twitter and [You Know What I Like...?](https://www.facebook.com/You-Know-What-I-Like-Podcast-1558503551144389/) on Facebook. Make sure to follow us there to get all of the updates, inside knowledge and the chance to contribute to the community with polls and discussion. Subscribe on [iTunes](https://itunes.apple.com/gb/podcast/you-know-what-i-like.../id1114900434?mt=2) or Stitcher and leave us a rating or a review if you like the show. It helps other people find the show and we'd love to be able to flail at more people.
 
