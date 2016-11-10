@@ -25,6 +25,10 @@
     &:visited {
         color: $grey-color-dark;
     }
+
+    @media (max-width: 575px)  {
+        font-size: 20px;
+    }
 }
 
 .site-nav {
