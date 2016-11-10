@@ -27,7 +27,7 @@
     }
 
     @media (max-width: 575px)  {
-        font-size: 15px;
+        font-size: 20px;
     }
 }
 
@@ -189,11 +189,11 @@
  * Page content
  */
 .page-content {
-  display: inline-block;
   padding: $spacing-unit 0;
+  padding-left: $twitter-width;
 
   @media (max-width: 1500px)  {
-      display: block;
+      padding-left: 0px;
   }
 }
 
@@ -216,11 +216,13 @@
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+  display: block;
+  text-align: center;
+  font-size: 24px;
 }
 
 .paragraph-homepage {
+  margin-top: 5px;
   text-align: center;
 }
 
@@ -259,17 +261,38 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 36px;
     letter-spacing: -1px;
-    line-height: 1;
+    margin: auto;
+    text-align: center;
+    line-height: 1.5;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
 }
 
+.background-postBody {
+  width: 700px;
+  /*width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  width:         calc(#{$content-width} - (#{$spacing-unit} * 2));*/
+  height: 500px;
+  background-color: #E9FFE6;
+  margin: 15px auto 5px auto;
+  border: 4px black solid;
+}
+
+.background-postHeader {
+  width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  height: $small-font-size;
+  background-color: #1DFD69;
+}
+
 .bannerPhoto {
-  max-width: 100%;
+  //max-width: 100%;
+  width: 600px;
+  height: 400px;
   vertical-align: middle;
   margin: auto auto 15px auto;
   display: block;

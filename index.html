@@ -27,18 +27,23 @@ layout: default
   <!--Episode List -->
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <!--Define Post Format -->
+    <div class="background-postBody">
+        <li>
+            <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-          {{ post.excerpt }}
-          <img class="bannerPhoto" src="{{ post.images[0].url }}" />
-        </p>
-      </li>
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+            <!--<h2>-->
+            <p class="post-title">
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </p>
+            <!--</h2>-->
+          <p>
+            <!--{{ post.excerpt }}-->
+            <img class="bannerPhoto" src="{{ post.images[0].url }}" />
+          </p>
+        </li>
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
     {% endfor %}
   </ul>
 
