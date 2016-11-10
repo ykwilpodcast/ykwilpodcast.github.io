@@ -2,25 +2,29 @@
 layout: default
 ---
 
+<!--<div class="twitterFeed">
+    <a class="twitter-timeline" data-width="250" data-height="800" href="https://twitter.com/ykwilpodcast">Tweets by ykwilpodcast</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>-->
+
 <div class="home">
 
   <!--Homepage Heading -->
-  <div id="homepageimage">
-    <img id="homepageimage" src="{{ site.url }}/assets/bannerPhoto_coverArt.png" />
-    <p class="paragraph-homepage">
-      Do you get overly attached to things without any real explanation of why?
-    </p>
-    <p class="paragraph-homepage">
-      Then this is the podcast for you.
-    </p>
-    <p class="paragraph-homepage">
-      <strong>You Know What I Like...?</strong> is a regularly scheduled enthusiastic flailing about another piece of pop culture.
-    </p>
+  <div class="homepageHeader">
+    <div class="homepageImage">
+      <img src="{{ site.url }}/assets/bannerPhoto_coverArt.png" />
+    </div>
+      <p class="paragraph-homepage">
+        Do you get overly attached to things without any real explanation of why?
+      </p>
+      <p class="paragraph-homepage">
+        Then this is the podcast for you.
+      </p>
+      <p class="paragraph-homepage">
+        <strong>You Know What I Like...?</strong> is a regularly scheduled enthusiastic flailing about another piece of pop culture.
+      </p>
   </div>
 
   <!--Episode List -->
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -34,9 +38,8 @@ layout: default
           <img class="bannerPhoto" src="{{ post.images[0].url }}" />
         </p>
       </li>
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

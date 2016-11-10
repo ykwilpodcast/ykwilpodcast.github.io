@@ -185,7 +185,12 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+  display: inline-block;
+  padding: $spacing-unit 0;
+
+  @media (max-width: 1500px)  {
+      display: block;
+  }
 }
 
 .page-heading {
@@ -215,8 +220,30 @@
   text-align: center;
 }
 
-#homepageimage {
-  display: block;
+.leftBorder {
+  height: 50px;
+  width: 50px;
+  float: left;
+  background-color: $header-footer-background-color;
+}
+
+.twitterFeed {
+  float: left;
+  display: inline-block;
+  margin-right: 0px;
+
+  @media (max-width: 1500px)  {
+      display: none;
+  }
+
+}
+
+.homepageHeader {
+  //display: inline-block;
+}
+
+.homepageImage {
+  text-align: center;
   margin: auto;
 }
 
