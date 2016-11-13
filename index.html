@@ -39,7 +39,9 @@ layout: default
             <!--</h2>-->
           <p>
             <!--{{ post.excerpt }}-->
-            <img class="bannerPhoto" src="{{ post.images[0].url }}" />
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <img class="bannerPhoto" src="{{ post.images[0].url }}" />
+            </a>
           </p>
         </li>
         <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
