@@ -294,6 +294,10 @@
 
 .bannerPhoto {
   margin: auto auto auto $twitter-width;
+
+  @media (max-width: 770px)  {
+      margin: auto;
+  }
 }
 
 .post-content {
