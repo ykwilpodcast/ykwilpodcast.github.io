@@ -288,21 +288,8 @@
   }
 }
 
-.background-postHeader {
-  width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  height: $small-font-size;
-  background-color: #1DFD69;
-}
-
 .bannerPhoto {
-  max-width: 100%;
-  margin: auto;
-  //margin: auto auto 15px auto;
-  //margin: 0 auto;
-  //float: inherit;
-  text-align: center;
-  margin: auto;
+  margin: auto auto auto $twitter-width;
 }
 
 .post-content {
