@@ -35,7 +35,7 @@ You can find us at [@ykwilpodcast](https://twitter.com/ykwilpodcast) on Twitter 
 
 Subscribe on [iTunes](https://itunes.apple.com/gb/podcast/you-know-what-i-like.../id1114900434?mt=2) or Stitcher and leave us a rating or a review if you like the show. It helps other people find the show and we'd love to be able to flail at more people.
 
-Keep your eyes peeled for our episode next month, where we drunkenly celebrate the musical franchise to rule them all: *High School Musical*!
+Keep your eyes peeled for our episode next month, where we drunkenly celebrate the musical franchise to rule them all: *High School Musical*! Bring the alcohol!
 
 Music: [Purple Planet Music](https://soundcloud.com/purpleplanetmusic)
 
