@@ -3,7 +3,7 @@ layout: post
 title:  "Episode 13 - Anniversary Special"
 date:   2017-06-01 00:00:00 0000
 categories: podcast
-excerpt: "TThis month we sat down and talked about *You Know What I Like...?* celebrating its one year anniversary."
+excerpt: "This month we sat down and talked about *You Know What I Like...?* celebrating its one year anniversary."
 images:
 
   - url: /assets/bannerPhoto_anniversarySpecial.png
